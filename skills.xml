@@ -1,8 +1,9 @@
-<skills>
-<skill_1>Postman</skill_1>
-<skill_2>SQL</skill_2>
-<skill_3>Git</skill_3>
-<skill_4>JS</skill_4>
-<skill_5>Bugreports</skill_5>
-<skill_6>Checklists</skill_6>
-</skills>
+<?xml version="1.0" encoding="utf-8"?>
+  <skills>
+    <skill_1>Postman</skill_1>
+    <skill_2>SQL</skill_2>
+    <skill_3>Git</skill_3>
+    <skill_4>JS</skill_4>
+    <skill_5>Bugreports</skill_5>
+    <skill_6>Checklists</skill_6>
+  </skills>
