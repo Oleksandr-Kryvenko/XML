@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <bug_report>
-  <ID>001</ID>
+  	<ID>001</ID>
 	<Title>App_crash_after_clicking_on_the_start_button_at_the_header</Title>
 	<Severity>critical</Severity>
 	<Priority>high</Priority>
