@@ -1,0 +1,10 @@
+<bug_report>
+  <ID>001</ID>
+	<Title>App_crash_after_clicking_on_the_start_button_at_the_header</Title>
+	<Severity>critical</Severity>
+	<Priority>high</Priority>
+	<STP>tap_on_the_start_button_at_the_header</STP>
+	<Expected_result>launching_of_the_game</Expected_result>
+	<Actual_result>app_crush</Actual_result>
+	<Attachments>crash_mp4</Attachments>
+</bug_report>
