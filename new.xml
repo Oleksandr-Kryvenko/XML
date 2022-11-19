@@ -1,7 +1,8 @@
-<about_me>
-<name>Oleksandr</name>
-<surname>Kryvenko</surname>
-<age>38</age>
-<pet_name>Shelby</pet_name>
-<salary>1500</salary>
-</about_me>
+<?xml version="1.0" encoding="utf-8"?>
+  <about_me>
+    <name>Oleksandr</name>
+    <surname>Kryvenko</surname>
+    <age>38</age>
+    <pet_name>Shelby</pet_name>
+    <salary>1500</salary>
+  </about_me>
